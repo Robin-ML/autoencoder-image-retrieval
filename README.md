@@ -1,4 +1,4 @@
-# Unsupervised Image Retrieval
+## Autoencoder for Image Retrieval
 
 This notebook shows the implementation of a very simple unsupervised image retrieval system using only a convolution autoencoder and the KNN algorithm.
 
